@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "24f3f1d7-fd77-e510-c075-eb7bcc57e2ba"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ae4affeb-359a-4073-a761-999c6a1c2eef",
+    "website": "introduction-to-french-literature"
+  },
+  "course_title": "Introduction to French Literature\t",
+  "hide_download": false,
+  "course_description": "This course is a study of major French literary genres and an introduction to methods of literary analysis. This semester, students will serve on the jury for the Goncourt Prize USA. \"Le Goncourt\" is the most prestigious literary prize in France. Students will study and rank books on the Goncourt shortlist. They will elect a representative to present their selection at the Villa Albertine in New York and choose the winner along with students from Princeton, Duke, Yale, Harvard, Columbia, and the University of Virginia. Meanwhile, the other students will prepare a press article to present their experience as a jury!\u00a0\n\nSpecial attention is devoted to the improvement of French language skills. The course is taught in French.\n\nAbout the instructor: Bruno Perreau is the Cynthia L. Reed Professor of French Studies at MIT and Director of MIT\u2019s Center of Excellence in French Studies. He is also an Affiliate Faculty at the Center for European Studies, Harvard University.\n\nPerreau recently published *The Politics of Adoption: Gender and the Making of French Citizenship* (MIT Press, 2014), *Queer Theory: The French Response* (Stanford University Press, 2016), *Les D\u00e9fis de la R\u00e9publique* (ed. with Joan W. Scott, Presses de Sciences Po, 2017), *Qui a peur de la th\u00e9orie queer ?* (Presses de Sciences Po, 2018), and *Sph\u00e8res d'injustice. Pour un universalisme minoritaire* (La D\u00e9couverte, 2023).",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.320",
+  "course_image_thumbnail": {
+    "content": "ae4affeb-359a-4073-a761-999c6a1c2eef",
+    "website": "introduction-to-french-literature"
+  },
+  "learning_resource_types": [
+    "Readings",
+    "Written Assignments"
+  ],
+  "site_uid": "98695064-18f0-4f0c-a2fd-a64286602b65",
+  "site_short_id": "21g.320-spring-2023",
+  "site_url_path": "courses/21g-320-introduction-to-french-literature-spring-2023"
+}
