@@ -28,4 +28,4 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-{{% resource_link "e4fb4062-d5b2-494e-a6d5-8e41d21b2767" "https://www.flickr.com/photos/tabor-roeder/19528948948" %}}Littérature française section inside the Librairie Gallimard book store. (Image courtesy of Phil Roeder on {{% resource_link "e4fb4062-d5b2-494e-a6d5-8e41d21b2767" "Flickr" %}}. License: CC BY.)
+[https://www.flickr.com/photos/tabor-roeder/19528948948](https://www.flickr.com/photos/tabor-roeder/19528948948)Littérature française section inside the Librairie Gallimard book store. (Image courtesy of Phil Roeder on [Flickr](https://www.flickr.com/photos/tabor-roeder/19528948948). License: CC BY.)
